@@ -1,0 +1,20 @@
+1.Mark Attendance 2.View Attendance 3.Exit
+1
+Student Name: abc
+Status (Present/Absent): present
+Attendance Saved
+
+1.Mark Attendance 2.View Attendance 3.Exit
+1
+Student Name: xyz
+Status (Present/Absent): absent
+Attendance Saved
+
+1.Mark Attendance 2.View Attendance 3.Exit
+2
+mij - present
+abc - present
+xyz - absent
+
+1.Mark Attendance 2.View Attendance 3.Exit
+3
